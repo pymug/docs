@@ -32,4 +32,4 @@ Above all, let’s keep PyMUG a friendly, inclusive and enjoyable community wher
 Happy coding!
 The PyMUG Team
 
-Coc Officer: Nirmal
+Code of Conduct Officer: Nirmal
